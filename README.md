@@ -7,3 +7,22 @@ A Python project that simulates efficient package delivery using a self-adjustin
   
   The runtime complexity of the entire program is as follows: <br>
 The csv files are imported within the ‘distances.py’ file, running in 3N or O(N). The simulation runs by instantiating the first two trucks and running the ‘greedy_driver’ algorithm, correcting the incorrect address using the ‘correct_address’ function, before instantiating the third truck and running its algorithm. This takes 6N^3 + 1 operations, with a complexity of O(N^3). The last running operation is the user interface running in O(N^3). Overall space-time complexity of the program is O(N^3). 
+
+  <br>
+  <img
+  src="Screenshots/1.png"
+  alt="Validation Check"
+  style="text-align:center;">
+  
+  <br>
+  <img
+  src="Screenshots/2.png"
+  alt="Validation Check"
+  style="text-align:center;">
+  
+  <br>
+  <img
+  src="Screenshots/3.png"
+  alt="Validation Check"
+  style="text-align:center;">
+  

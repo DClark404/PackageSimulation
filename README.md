@@ -16,13 +16,13 @@ The csv files are imported within the ‘distances.py’ file, running in 3N or 
   
   <br>
   <img
-  src="Screenshots/2.png"
+  src="Screenshots/3.png"
   alt="Validation Check"
   style="text-align:center;">
   
   <br>
   <img
-  src="Screenshots/3.png"
+  src="Screenshots/2.png"
   alt="Validation Check"
   style="text-align:center;">
   
